@@ -1,0 +1,22 @@
+@mixin center {
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.quiz-page-main-container {
+
+    @include center();
+    min-height: 100vh;
+
+    h1 {
+        text-align: center;
+    }
+
+    .quiz-card-body {
+
+        @include center();
+    }
+}

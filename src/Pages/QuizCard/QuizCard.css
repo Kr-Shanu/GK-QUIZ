@@ -1,0 +1,15 @@
+.card-main-body {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  flex-direction: column;
+  width: 30vw;
+  margin: 2rem 0rem;
+  min-width: 200px;
+}
+.card-main-body button {
+  padding: 0.4rem;
+}
+.card-main-body p {
+  margin: 1rem 0rem;
+}/*# sourceMappingURL=QuizCard.css.map */

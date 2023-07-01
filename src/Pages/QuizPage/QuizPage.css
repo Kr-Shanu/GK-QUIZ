@@ -1,1 +1,16 @@
-/*# sourceMappingURL=QuizPage.css.map */
+.quiz-page-main-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+.quiz-page-main-container h1 {
+  text-align: center;
+}
+.quiz-page-main-container .quiz-card-body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}/*# sourceMappingURL=QuizPage.css.map */

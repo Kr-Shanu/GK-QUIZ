@@ -1,1 +1,1 @@
-{"version":3,"sources":[],"names":[],"mappings":"","file":"QuizPage.css"}
+{"version":3,"sources":["QuizPage.scss","QuizPage.css"],"names":[],"mappings":"AAQA;EANI,aAAA;EACA,sBAAA;EACA,uBAAA;EACA,mBAAA;EAMA,iBAAA;ACLJ;ADOI;EACI,kBAAA;ACLR;ADQI;EAfA,aAAA;EACA,sBAAA;EACA,uBAAA;EACA,mBAAA;ACUJ","file":"QuizPage.css"}

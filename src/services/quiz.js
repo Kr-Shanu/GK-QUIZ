@@ -8,7 +8,7 @@ const getQuiz = async (body) => {
     
     try {
         const quiz = await axios.get(url);
-        console.log("Quiz data received = "+ quiz.data);
+        console.log("Quiz data received = "+ quiz.data.results[0]);
         return quiz.data;
     } catch (error) {
         console.log("Error occured: "+ error);
