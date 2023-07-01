@@ -1,0 +1,58 @@
+@mixin center{
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+@mixin boxDimension {
+    width: 25vw;
+    padding: 0.4rem;
+    min-width: 220px;
+}
+
+.home-main-container {
+
+    min-height: 100vh;
+    @include center();
+    
+    h1 {
+        text-align: center;
+        margin-bottom: 5rem 0rem;
+    }
+
+
+    .quiz-container {
+        
+        @include center();
+        width: 35vw;
+        height: 40vh;
+
+        .form-container {
+
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+
+            input {
+                @include boxDimension();
+            }
+    
+            select {
+                @include boxDimension();
+            }
+
+            button {
+                @include boxDimension();
+                &:hover {
+                    background-color: aqua;
+                    cursor: pointer;
+                }
+            }
+        }
+        
+
+        
+    }
+}

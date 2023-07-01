@@ -1,0 +1,43 @@
+.home-main-container {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.home-main-container h1 {
+  text-align: center;
+  margin-bottom: 5rem 0rem;
+}
+.home-main-container .quiz-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 35vw;
+  height: 40vh;
+}
+.home-main-container .quiz-container .form-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.home-main-container .quiz-container .form-container input {
+  width: 25vw;
+  padding: 0.4rem;
+  min-width: 220px;
+}
+.home-main-container .quiz-container .form-container select {
+  width: 25vw;
+  padding: 0.4rem;
+  min-width: 220px;
+}
+.home-main-container .quiz-container .form-container button {
+  width: 25vw;
+  padding: 0.4rem;
+  min-width: 220px;
+}
+.home-main-container .quiz-container .form-container button:hover {
+  background-color: aqua;
+  cursor: pointer;
+}/*# sourceMappingURL=Home.css.map */
