@@ -1,70 +1,16 @@
-# Getting Started with Create React App
+# Quiz Master [Try me 🫵🏻](https://64a07b540e351366113f923f--eclectic-lamington-80fce7.netlify.app/)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Steps to run it in local environment
 
-## Available Scripts
+- clone the repo
+- run ```npm i``` to install all the dependencies
+- run ```npm start``` to start the application on local server
 
-In the project directory, you can run:
+---
 
-### `npm start`
+## Screen Shots:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- <img width="1792" alt="Screenshot 2023-07-02 at 12 59 11 AM" src="https://github.com/Kr-Shanu/GK-QUIZ/assets/80747792/416b5a9e-9be6-42b4-ae23-53669dd8e679">
+- <img width="1792" alt="Screenshot 2023-07-02 at 12 59 18 AM" src="https://github.com/Kr-Shanu/GK-QUIZ/assets/80747792/d045521e-48a8-4def-a05e-89bc94e214e1">
+- <img width="1792" alt="Screenshot 2023-07-02 at 12 59 25 AM" src="https://github.com/Kr-Shanu/GK-QUIZ/assets/80747792/9ffaab3a-54a9-4a9f-9439-1251bea5c575">
+- <img width="1792" alt="Screenshot 2023-07-02 at 12 59 31 AM" src="https://github.com/Kr-Shanu/GK-QUIZ/assets/80747792/f78977d8-9735-4008-bfd5-fefb7d9b6c49">
